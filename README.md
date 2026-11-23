@@ -19,13 +19,28 @@
 </p>
 ---
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Computer Science student at **Lovely Professional University (LPU)**
-- 📊 Working on **Data Science, Machine Learning, and Big Data** projects
-- 💻 Practicing **Data Structures & Algorithms** in Java
-- 🤖 Exploring **AI** and building things with Python
-- 🌱 Always curious, always improving
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <i>"Building AI-powered products that turn ideas into working software."</i>
+</p>
+
+- 🎓 **B.Tech CSE** student at **Lovely Professional University**, Punjab
+- 🤖 Building **AI agents and LLM apps** with LangChain, Groq (LLaMA 3.3) and the Gemini API
+- 🔎 Working on **RAG systems**: vector search + language models for accurate, document-based answers
+- 🚀 Shipped **InvestIQ**, an AI investment research agent, as a full-stack Next.js app on Vercel
+- 💻 Practicing **Data Structures & Algorithms** in Java to sharpen problem-solving
+- 📊 Comfortable with **Python, SQL (MySQL), Power BI and Excel** for data work
+- 🤝 Active Member & Event Manager at LPU's **Division of Innovation and Entrepreneurship**
+- 🌱 Currently exploring **agentic workflows** and building more end-to-end AI projects
+
+### 🎯 What I'm Looking For
+Internship and project opportunities in **AI/ML, GenAI and Full-Stack development**, where I can build real products and learn from experienced teams.
+
+### 📫 Let's Connect
+Open to collaborations, feedback, and conversations about AI, data, and building things. Reach me on [LinkedIn](https://www.linkedin.com/in/jatinvohra11) or at **jatinvohra792@gmail.com**.
 
 ---
 ---
