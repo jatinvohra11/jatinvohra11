@@ -109,6 +109,7 @@ Open to collaborations, feedback, and conversations about AI, data, and building
 | [**InvestIQ: AI Investment Research Agent**](https://github.com/jatinvohra11/REPO-NAME) | AI agent that researches any company and gives an **INVEST or PASS** verdict with a confidence score. 3-node pipeline (Search, Analyze, Score) with live news and a Perplexity-style UI. | `Next.js` `TypeScript` `LangChain.js` `Groq LLaMA 3.3` `Tavily` |
 | [**EduqX: AI Assistant (RAG)**](https://github.com/jatinvohra11/REPO-NAME) | RAG system that answers questions from external documents, combining **vector search** with a language model for more accurate responses. | `Python` `Flask` `Vector DB` `RAG` |
 | [**VentureAI: Startup Advisor Chatbot**](https://github.com/jatinvohra11/REPO-NAME) | Chatbot that gives business advice using the **Gemini API**, with secure login and a modern chat interface. | `Python` `Flask` `Gemini API` `HTML` `CSS` |
+| [**Ask Jatin: Personal Recruiter Chatbot**](https://github.com/jatinvohra11/ask-jatin) | Chatbot that answers recruiter questions about my skills, projects and experience, grounded only in my CV so it does not make things up. | `Next.js` `TypeScript` `Groq LLaMA 3.3` |
 
 <p align="center">
   <a href="https://YOUR-LIVE-DEMO-LINK">
@@ -126,10 +127,26 @@ Open to collaborations, feedback, and conversations about AI, data, and building
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinvohra11/jatinvohra11/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jatinvohra11/jatinvohra11/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinvohra11&bg_color=0d1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center"><i>"Talk is cheap. Show me the code." - Linus Torvalds</i></p>
+
+---
+
+<h2 align="center">Ask Jatin: My Personal AI Assistant</h2>
+
+<p align="center">
+  Recruiters and visitors can ask anything about my skills, projects, certifications or experience.<br/>
+  It answers only from my CV, so the answers stay accurate.
+</p>
+
+<p align="center">
+  <a href="https://YOUR-CHATBOT-URL">
+    <img src="https://img.shields.io/badge/Chat_With_My_AI_Assistant-2F81F7?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Example questions: "What AI projects has Jatin built?", "What is his tech stack?", "Tell me about InvestIQ".</sub>
+</p>
